@@ -1,7 +1,3 @@
-# WELCOME TO MY FINAL YEAR PROJECT
-
-This repository has been created to store my final year project. You may edit it as you like, but please do not remove the default topics or the project members list. These need to stay as currently defined in order for your supervisor to be able to find your project.
-
 # A Study in Human Computer Interaction in a clothing E-commerce experience
 
 This e-commerce system combines three interfaces to create a user-friendly online fashion store shopping experience: a React app used to build a webpage interface for browsing on computers, a React Native used to build a mobile app interface for on-the-go shopping, both of these interfaces are backed by Firebase, our database interface. 
